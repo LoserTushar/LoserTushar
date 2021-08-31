@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoserTushar
 - 👀 I’m interested in learning
-- 🌱 I’m currently studing MCA
+- 🌱 I’m currently studying MCA
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me msg me in 
             - instagram: @ig.loser_tushar OR
