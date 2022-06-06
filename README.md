@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying MCA
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me msg me in 
-            - instagram: @ig.loser_tushar OR
+            - instagram: @ig.the_hikikomori OR
             - Mail me:  tusharawa11@gmail.com
 <!---
 LoserTushar/LoserTushar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
