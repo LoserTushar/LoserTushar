@@ -38,7 +38,7 @@
 <p align="left">My Name is <b>Tushar Awasthi</b> from Bilaspur, Chhattisgarh<br>
   <br>- 🔭 I’m working as Assistant Professor & HR Executive.
   <br>- 📚 I'm currently learning AI & HR Management.
-  <br>- ⚡ In my free time I do Gaming & Codeing.</p>
+  <br>- ⚡ In my free time I do Gaming & Coding.</p>
 
 ###
 <br/>
